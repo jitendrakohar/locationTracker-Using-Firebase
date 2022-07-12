@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342457217874",
+    "project_id": "bionic-will-297407",
+    "storage_bucket": "bionic-will-297407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342457217874:android:e170c65ce5cbab1570008b",
+        "android_client_info": {
+          "package_name": "com.example.locationtrackerfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342457217874-dv3kmfisp3jg32cr9o2em7oi3fmac7vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationtrackerfirbase",
+            "certificate_hash": "2be43e0aa84eef2a213467497dd8edf1476ceebd"
+          }
+        },
+        {
+          "client_id": "342457217874-n28vekjg2esva5548lr9fmhi37c79drv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0rPoBTNIOdb_chMJ8EqpdK74NEWiysU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342457217874-n28vekjg2esva5548lr9fmhi37c79drv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
